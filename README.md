@@ -7,4 +7,5 @@ LeetCode solutions managed by iq-leetbuddy
 | # | 제목 | 난이도 | 언어 | 풀이 일자 |
 |---|---|---|---|---|
 | 1 | [Two Sum](0001-two-sum/) | Easy | java | 2026-05-13 |
+| 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/) | Medium | java | 2026-05-13 |
 <!-- iq-leetbuddy:problems:end -->
